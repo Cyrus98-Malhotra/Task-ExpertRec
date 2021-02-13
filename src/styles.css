@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: #fafafa;
+    overflow-x: hidden;
+}
+.row{
+    padding: 0!important;
+}

@@ -1,0 +1,6 @@
+.home-body{
+    background-color: #fafafa;
+}
+.home-body img{
+    height: calc(100vh - 68px);
+}
